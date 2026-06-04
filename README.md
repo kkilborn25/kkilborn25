@@ -5,8 +5,11 @@
 -->
 
 I am a computer science student at the University of South Carolina interested in Applied AI, Software Development, and Cybersecurity. 
+
 Expected Graduation: Spring 2029
+
 Currently gaining industry experience through a Website Analytics Internship at In2itive Biz Solutions
+
 ### Current Focus: 
  - Java
  - Python
